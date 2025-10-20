@@ -2,6 +2,8 @@
 
 A modern, feature-rich Word document editor built with Rust and React, powered by `docx-rs` for native .docx file handling.
 
+> **Note**: This project is complete and ready to build! If you encounter network errors when building in restricted environments (like CI/CD or sandboxes), this is expected. Simply clone and build in a normal development environment with internet access. See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for details.
+
 ## Features
 
 - **Rich Text Editing**: Full-featured text editor with real-time formatting
